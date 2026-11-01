@@ -1,0 +1,2 @@
+Hello from fstream!My Name is Sandeep
+ you
